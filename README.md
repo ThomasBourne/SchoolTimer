@@ -1,0 +1,2 @@
+# SchoolTimer
+Timer for subjects
